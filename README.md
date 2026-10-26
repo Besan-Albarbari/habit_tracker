@@ -1,17 +1,47 @@
-# habit_tracker
+# Habit Tracker App
 
-A new Flutter project.
+A simple and beginner-friendly habit tracking app built with Flutter to monitor daily habits and build positive routines.
 
-## Getting Started
+## Features
+* Track daily habits easily.
+* Clean and intuitive user interface.
+* Built to practice Flutter UI components and Dart fundamentals.
 
-This project is a starting point for a Flutter application.
+## Built With
+* **Framework:** Flutter
+* **Language:** Dart
+* **IDE:** Visual Studio Code
+* **Version Control:** Git & GitHub
 
-A few resources to get you started if this is your first Flutter project:
+##  Getting Started
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Prerequisites
+* Flutter SDK & Dart SDK installed.
+* An IDE such as Visual Studio Code.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation & Running
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/Besan-Albarbari/habit_tracker
+
+2. **Open the project folder**:
+     cd habit_tracker
+
+3. **Install dependencies:**
+      flutter pub get
+
+4. **Run the application:**
+    flutter run
+
+# What I Learned
+This project is an essential part of my journey in learning Flutter and Dart, helping me practice project structure, UI development, and version control.
+
+# Future Improvements
+Enhance the user interface.
+
+Add advanced habit management features.
+
+Save data locally and track long-term progress.
+
+# Author
+Created with passion as part of my software engineering learning journey.
